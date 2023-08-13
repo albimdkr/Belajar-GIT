@@ -7,4 +7,5 @@ function helloFromBangkit(){
   }
 }
 
+helloFromBangkit();
 
