@@ -1,1 +1,1 @@
-console.log('Hallo GIT from branch development');
+console.log('Hallo GIT from resolve conflict');
